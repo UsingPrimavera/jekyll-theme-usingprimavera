@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["barrie@usingprimavera.com"]
 
   spec.summary       = "Theme to be used on usingprimavera.com"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/UsingPrimavera/jekyll-theme-usingprimavera"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
